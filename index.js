@@ -28,3 +28,4 @@ BoardMember.prototype.sayHi = function () {
     "."
   );
 };
+
